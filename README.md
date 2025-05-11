@@ -5,7 +5,7 @@ USTH Deep Learning 2025
 * YOUR ID HERE IF YOU ARE DAT
 
 
-Project (50%)
+Project
 =====================
 
 * Topic: Simple CNN **from scratch**. No import except typing, math, PIL, matplotlib. NOOOO numpy
@@ -14,8 +14,14 @@ Project (50%)
 * Trainable, predictable
 * No GPT. No copy paste.
 * Deadline: **31/5**. Don't suffer.
-* 6-page two-column report is a bonus. Follow the IEEE **LaTeX** conference template. No word/gdoc/...
+* Submit to GitHub.
+
+Report (50%)
+=================
+
+* 4-page two-column report instead of a written test. Follow the IEEE **LaTeX** conference template. No word/gdoc/...
+* 6-page two-column report is a bonus
 	* Those who want to pursue a PhD should write this one
-	* Mr. Trung, Mr. Tung, Mr. Flex, Mr. Spring, Mr. Lam, Mr. Bach, Mr. Dat (24...), Mr. Hoang
-	* Deadline 31/5
+	* Mr. Camel, Mr. Thanh Tung, Mr. Flex, Mr. Spring, Mr. Lam, Mr. Bach, Mr. DefinatelyNotBach, Mr. Dat (24...), Mr. Hoang
+* Deadline 31/5.
 * Submit to GitHub.
