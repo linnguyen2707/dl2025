@@ -3,7 +3,7 @@ USTH Deep Learning 2025
 
 * Nguyen Tung Lam
 * 2440042
-
+* Because my dataset too big, so I add link to dataset on Kaggle in the report
 
 Project
 =====================
